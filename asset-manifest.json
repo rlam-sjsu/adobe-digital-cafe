@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/adobe-digital-cafe/static/css/main.336af8a0.css",
-    "main.js": "/adobe-digital-cafe/static/js/main.a7c6ac88.js",
+    "main.css": "/adobe-digital-cafe/static/css/main.6f5821b1.css",
+    "main.js": "/adobe-digital-cafe/static/js/main.055728e3.js",
     "static/js/210.5e5aedac.chunk.js": "/adobe-digital-cafe/static/js/210.5e5aedac.chunk.js",
     "static/js/640.93c2e067.chunk.js": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js",
     "index.html": "/adobe-digital-cafe/index.html",
-    "main.336af8a0.css.map": "/adobe-digital-cafe/static/css/main.336af8a0.css.map",
-    "main.a7c6ac88.js.map": "/adobe-digital-cafe/static/js/main.a7c6ac88.js.map",
+    "main.6f5821b1.css.map": "/adobe-digital-cafe/static/css/main.6f5821b1.css.map",
+    "main.055728e3.js.map": "/adobe-digital-cafe/static/js/main.055728e3.js.map",
     "210.5e5aedac.chunk.js.map": "/adobe-digital-cafe/static/js/210.5e5aedac.chunk.js.map",
     "640.93c2e067.chunk.js.map": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.336af8a0.css",
-    "static/js/main.a7c6ac88.js"
+    "static/css/main.6f5821b1.css",
+    "static/js/main.055728e3.js"
   ]
 }
