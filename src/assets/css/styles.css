@@ -1,0 +1,13 @@
+.active {
+    color: lightskyblue;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+}
+
+.main-container{
+    /* max-width: 968px; */
+    margin: auto;
+  }
