@@ -1,17 +1,45 @@
 {
   "files": {
-    "main.css": "/adobe-digital-cafe/static/css/main.6f5821b1.css",
-    "main.js": "/adobe-digital-cafe/static/js/main.f3b84073.js",
+    "main.css": "/adobe-digital-cafe/static/css/main.da965e29.css",
+    "main.js": "/adobe-digital-cafe/static/js/main.2e2a515e.js",
     "static/js/210.5e5aedac.chunk.js": "/adobe-digital-cafe/static/js/210.5e5aedac.chunk.js",
     "static/js/640.93c2e067.chunk.js": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js",
+    "reactPlayerYouTube.js": "/adobe-digital-cafe/static/js/reactPlayerYouTube.bc51f6d0.chunk.js",
+    "reactPlayerSoundCloud.js": "/adobe-digital-cafe/static/js/reactPlayerSoundCloud.08efffcd.chunk.js",
+    "reactPlayerVimeo.js": "/adobe-digital-cafe/static/js/reactPlayerVimeo.fa53b7af.chunk.js",
+    "reactPlayerMux.js": "/adobe-digital-cafe/static/js/reactPlayerMux.d3ab09f3.chunk.js",
+    "reactPlayerFacebook.js": "/adobe-digital-cafe/static/js/reactPlayerFacebook.bf37e68d.chunk.js",
+    "reactPlayerStreamable.js": "/adobe-digital-cafe/static/js/reactPlayerStreamable.997ecccc.chunk.js",
+    "reactPlayerWistia.js": "/adobe-digital-cafe/static/js/reactPlayerWistia.ac3b23f3.chunk.js",
+    "reactPlayerTwitch.js": "/adobe-digital-cafe/static/js/reactPlayerTwitch.2c8c3f13.chunk.js",
+    "reactPlayerDailyMotion.js": "/adobe-digital-cafe/static/js/reactPlayerDailyMotion.a47d061a.chunk.js",
+    "reactPlayerMixcloud.js": "/adobe-digital-cafe/static/js/reactPlayerMixcloud.08a73ecf.chunk.js",
+    "reactPlayerVidyard.js": "/adobe-digital-cafe/static/js/reactPlayerVidyard.5cc4f826.chunk.js",
+    "reactPlayerKaltura.js": "/adobe-digital-cafe/static/js/reactPlayerKaltura.f4818e06.chunk.js",
+    "reactPlayerFilePlayer.js": "/adobe-digital-cafe/static/js/reactPlayerFilePlayer.4e2f7a25.chunk.js",
+    "reactPlayerPreview.js": "/adobe-digital-cafe/static/js/reactPlayerPreview.07c9fc7c.chunk.js",
     "index.html": "/adobe-digital-cafe/index.html",
-    "main.6f5821b1.css.map": "/adobe-digital-cafe/static/css/main.6f5821b1.css.map",
-    "main.f3b84073.js.map": "/adobe-digital-cafe/static/js/main.f3b84073.js.map",
+    "main.da965e29.css.map": "/adobe-digital-cafe/static/css/main.da965e29.css.map",
+    "main.2e2a515e.js.map": "/adobe-digital-cafe/static/js/main.2e2a515e.js.map",
     "210.5e5aedac.chunk.js.map": "/adobe-digital-cafe/static/js/210.5e5aedac.chunk.js.map",
-    "640.93c2e067.chunk.js.map": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js.map"
+    "640.93c2e067.chunk.js.map": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js.map",
+    "reactPlayerYouTube.bc51f6d0.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerYouTube.bc51f6d0.chunk.js.map",
+    "reactPlayerSoundCloud.08efffcd.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerSoundCloud.08efffcd.chunk.js.map",
+    "reactPlayerVimeo.fa53b7af.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerVimeo.fa53b7af.chunk.js.map",
+    "reactPlayerMux.d3ab09f3.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerMux.d3ab09f3.chunk.js.map",
+    "reactPlayerFacebook.bf37e68d.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerFacebook.bf37e68d.chunk.js.map",
+    "reactPlayerStreamable.997ecccc.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerStreamable.997ecccc.chunk.js.map",
+    "reactPlayerWistia.ac3b23f3.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerWistia.ac3b23f3.chunk.js.map",
+    "reactPlayerTwitch.2c8c3f13.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerTwitch.2c8c3f13.chunk.js.map",
+    "reactPlayerDailyMotion.a47d061a.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerDailyMotion.a47d061a.chunk.js.map",
+    "reactPlayerMixcloud.08a73ecf.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerMixcloud.08a73ecf.chunk.js.map",
+    "reactPlayerVidyard.5cc4f826.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerVidyard.5cc4f826.chunk.js.map",
+    "reactPlayerKaltura.f4818e06.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerKaltura.f4818e06.chunk.js.map",
+    "reactPlayerFilePlayer.4e2f7a25.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerFilePlayer.4e2f7a25.chunk.js.map",
+    "reactPlayerPreview.07c9fc7c.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerPreview.07c9fc7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f5821b1.css",
-    "static/js/main.f3b84073.js"
+    "static/css/main.da965e29.css",
+    "static/js/main.2e2a515e.js"
   ]
 }

@@ -1,0 +1,327 @@
+﻿1
+00:00:03,636 --> 00:00:07,140
+Once we have our
+
+2
+00:00:07,140 --> 00:00:08,608
+Road for 2040
+
+3
+00:00:08,608 --> 00:00:11,945
+page in place,
+ let's create more screens
+
+4
+00:00:12,295 --> 00:00:16,016
+for the different options,
+ the different sub topics within them.
+
+5
+00:00:16,416 --> 00:00:19,769
+So I'm going to click on Road to 2040.
+
+6
+00:00:22,088 --> 00:00:25,475
+I realized that this needed,
+
+7
+00:00:25,475 --> 00:00:27,877
+a subtitle, so I'm just going to borrow
+
+8
+00:00:27,877 --> 00:00:31,681
+that from the previous page
+ by clicking on it, holding “Alt” or “Option”
+
+9
+00:00:31,698 --> 00:00:34,517
+dragging it into my new screen
+
+10
+00:00:34,784 --> 00:00:38,071
+and changing the text for it.
+
+11
+00:00:38,071 --> 00:00:39,873
+Now they have the screen in place.
+
+12
+00:00:39,873 --> 00:00:43,359
+I'm just going to hold “Alt”
+ and then copy the whole artboard
+
+13
+00:00:43,359 --> 00:00:45,762
+by clicking on the name
+ and dragging it down.
+
+14
+00:00:46,146 --> 00:00:49,265
+But this wouldn't be the best function,
+ so let's just do “Command + D”
+
+15
+00:00:49,449 --> 00:00:53,336
+or “Control + D”. In this new artboard
+ in this new slide,
+
+16
+00:00:53,586 --> 00:00:57,240
+I don't want the icons
+ in the exact same manner as before,
+
+17
+00:00:57,240 --> 00:00:59,259
+so I'm just going to pull that down
+ for a bit.
+
+18
+00:00:59,726 --> 00:01:03,279
+Even the text - pull it up for a bit
+ and then just
+
+19
+00:01:03,897 --> 00:01:07,150
+just duplicate the plain artboard
+
+20
+00:01:07,300 --> 00:01:11,171
+with the menu option and the guidelines.
+
+21
+00:01:11,821 --> 00:01:13,339
+Now this is to demonstrate
+
+22
+00:01:13,339 --> 00:01:17,560
+another superpower
+ that the repeat grid function has, which
+
+23
+00:01:19,262 --> 00:01:20,647
+is used to create
+
+24
+00:01:20,647 --> 00:01:24,267
+text in a very symmetric manner
+
+25
+00:01:24,367 --> 00:01:27,303
+across different artboards and across
+ different slides.
+
+26
+00:01:28,288 --> 00:01:30,390
+So what we wanted to do is to zoom out
+
+27
+00:01:30,390 --> 00:01:34,077
+to be able to see the screens
+ we want to use
+
+28
+00:01:34,527 --> 00:01:38,398
+and then select the text box
+ by holding “Shift”,
+
+29
+00:01:38,848 --> 00:01:41,701
+click on “Repeat Grid” and
+
+30
+00:01:42,719 --> 00:01:45,038
+drag the controls across the screens.
+
+31
+00:01:45,355 --> 00:01:48,808
+Now we'd like to get
+ the spacing of 1920,
+
+32
+00:01:48,808 --> 00:01:51,778
+which is the width of each screen
+ between - 
+
+33
+00:01:53,129 --> 00:01:54,247
+between each text.
+
+34
+00:01:54,247 --> 00:01:55,915
+But don't worry about that.
+
+35
+00:01:55,915 --> 00:01:58,918
+That may be a bit difficult
+ depending on the size of the text.
+
+36
+00:01:59,319 --> 00:02:02,222
+So let's just keep that keep a spacing
+
+37
+00:02:02,222 --> 00:02:07,677
+so that it's central to each screen
+ and then drag in your content
+
+38
+00:02:08,044 --> 00:02:11,131
+that you've written down
+ in a .txt file to the header
+
+39
+00:02:11,131 --> 00:02:14,317
+and the subtitle, subtitle body.
+
+40
+00:02:15,335 --> 00:02:17,403
+Now, once we got these in place,
+
+41
+00:02:17,403 --> 00:02:20,757
+we just need to right
+ click on it ungroup.
+
+42
+00:02:21,307 --> 00:02:23,526
+You can't see the
+
+43
+00:02:25,228 --> 00:02:28,681
+text on the next slides immediately,
+ but don't worry, it's right there.
+
+44
+00:02:28,898 --> 00:02:33,536
+So just ungroup it
+ and then you can center each of them.
+
+45
+00:02:34,320 --> 00:02:37,540
+Do the artboard
+ using the align functions at the top
+
+46
+00:02:37,540 --> 00:02:41,077
+right hand corner.
+
+47
+00:02:48,968 --> 00:02:49,969
+Now we just get super
+
+48
+00:02:49,969 --> 00:02:55,725
+creative and add our bullet points
+ along with images to make sure that
+
+49
+00:02:56,359 --> 00:02:59,412
+the most effective points are conveyed.
+
+50
+00:03:00,230 --> 00:03:05,018
+So these go along with your voice
+ and your enthusiasm.
+
+51
+00:03:05,285 --> 00:03:06,920
+So just
+
+52
+00:03:07,637 --> 00:03:11,057
+in case it's a presentation in a web
+ site, it would be slightly different.
+
+53
+00:03:11,324 --> 00:03:13,993
+But yeah,
+ just make sure you got all your points
+
+54
+00:03:13,993 --> 00:03:17,313
+in there with as many images
+ as you think necessary,
+
+55
+00:03:17,981 --> 00:03:20,750
+and we can do that in many formats.
+
+56
+00:03:21,167 --> 00:03:23,436
+A really cool place to check out
+
+57
+00:03:24,037 --> 00:03:27,607
+how people give presentations
+ is actually just Behance.
+
+58
+00:03:27,974 --> 00:03:32,111
+You can check it out on Behance or go to
+ Creative Marketplace, go to Dribble,
+
+59
+00:03:32,862 --> 00:03:37,150
+get some inspiration
+ from how people make screens,
+
+60
+00:03:37,550 --> 00:03:42,455
+not just presentations and implement
+ whatever is best to you.
+
+61
+00:03:43,423 --> 00:03:45,425
+What you've
+ got to remember with the .txt
+
+62
+00:03:45,558 --> 00:03:49,128
+files is as you press, enter
+ or as you create a new line
+
+63
+00:03:49,429 --> 00:03:53,399
+that gets read as a new block of text
+ during repeat.
+
+64
+00:03:53,950 --> 00:03:58,938
+So make sure there aren't any spaces
+ in between your -
+
+65
+00:03:59,772 --> 00:04:00,890
+make sure that there aren't
+
+66
+00:04:00,890 --> 00:04:04,911
+multiple lines in your grid,
+ so you can always add them together
+
+67
+00:04:04,911 --> 00:04:09,465
+and then bring it to XD
+ and then create multiple lines.
+
+68
+00:04:10,483 --> 00:04:12,919
+But for now, have it as a single paragraph.
+
+69
+00:04:16,172 --> 00:04:16,739
+And we're
+
+70
+00:04:16,739 --> 00:04:19,075
+almost there guys,
+ now we're just going to
+
+71
+00:04:20,043 --> 00:04:24,430
+get our images in place
+ and create the icon
+
+72
+00:04:24,430 --> 00:04:25,398
+buttons.

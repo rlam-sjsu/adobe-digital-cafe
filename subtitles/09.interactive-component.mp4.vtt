@@ -1,0 +1,349 @@
+WEBVTT
+
+00:00:01.768 --> 00:00:02.185
+Creating
+
+00:00:02.185 --> 00:00:07.307
+the icons or clickable elements is part
+ of the magic of components.
+
+00:00:07.340 --> 00:00:10.577
+Now this is slightly advanced and
+
+00:00:10.577 --> 00:00:12.228
+you don't have to worry about it
+
+00:00:12.228 --> 00:00:15.849
+immediately,
+ but it's nice to have when you have XD.
+
+00:00:16.349 --> 00:00:18.835
+So this is a bit more than beginners.
+
+00:00:19.319 --> 00:00:21.021
+This is intermediate.
+
+00:00:21.021 --> 00:00:24.941
+So what you want is just the images
+ and the colors of the boxes.
+
+00:00:24.958 --> 00:00:27.377
+So we're just going to click into
+
+00:00:27.560 --> 00:00:31.097
+the groups,
+ by holding down control or command.
+
+00:00:31.648 --> 00:00:36.770
+So that lets us select
+ the options directly of a group.
+
+00:00:36.770 --> 00:00:42.375
+Or we can just select them from the layers
+ panel as I do rectangles.
+
+00:00:42.976 --> 00:00:46.796
+Now we all want them to be
+ slightly smaller, so they can be part of
+
+00:00:46.796 --> 00:00:47.881
+the screen.
+
+00:00:47.881 --> 00:00:52.135
+Let's just bring it down
+ to 120 “Width” and “Height”
+
+00:00:52.969 --> 00:00:55.555
+and now select the images
+
+00:00:55.855 --> 00:01:00.226
+and bring them on top of the rectangle,
+ so that they sit in-between.
+
+00:01:00.977 --> 00:01:04.948
+Now we immediately see the problem that
+ we can't see their backgrounds behind,
+
+00:01:05.398 --> 00:01:11.121
+which is why we use the magic
+ of “Layer Styles”. Now Layer Styles,
+
+00:01:11.454 --> 00:01:15.141
+essentially,
+ lets us choose how an image
+
+00:01:15.141 --> 00:01:18.411
+or a layer interacts
+ with its background.
+
+00:01:19.345 --> 00:01:23.416
+If we choose multiply,
+ only to darker aspects of the image
+
+00:01:24.451 --> 00:01:25.368
+show.
+
+00:01:25.368 --> 00:01:29.489
+So here the darkest aspect
+ being the icon itself,
+
+00:01:29.839 --> 00:01:32.609
+the white disappears.
+
+00:01:32.692 --> 00:01:34.828
+And after we've come to this point,
+
+00:01:34.828 --> 00:01:38.932
+let's just try to rearrange it bit
+ make sure that the images
+
+00:01:39.149 --> 00:01:44.921
+are center of the box,
+ We can either do it by eye measurement,
+
+00:01:44.938 --> 00:01:47.307
+the guidelines, or use align functions.
+
+00:01:48.108 --> 00:01:52.579
+After that, get - make sure that they
+ appear in the right place on the screen,
+
+00:01:52.846 --> 00:01:56.116
+because this is a repeating element
+ that we'll use again and again.
+
+00:01:56.633 --> 00:02:01.321
+I feel like the border is a bit too
+ thick, so going to reduce that a bit,
+
+00:02:01.771 --> 00:02:05.758
+and maybe
+ even reduce the intensity of the shadows,
+
+00:02:06.109 --> 00:02:08.761
+and looks good. At this point,
+
+00:02:08.962 --> 00:02:11.931
+we make the icons into a component.
+
+00:02:11.981 --> 00:02:15.919
+Now this is super important to create
+ some kind of reaction to the clicking.
+
+00:02:16.252 --> 00:02:20.907
+So let's select all aspects of the image
+ and the background,
+
+00:02:20.907 --> 00:02:23.960
+and click on component
+ on the right hand side
+
+00:02:23.960 --> 00:02:27.413
+- or “Command / Control + K”. Just right
+
+00:02:27.413 --> 00:02:30.767
+Click on it
+ and find “Make Component” order.
+
+00:02:37.407 --> 00:02:40.343
+We're gonna quickly
+ go into the prototype window
+
+00:02:40.610 --> 00:02:43.429
+and make sure all the icons are linked
+
+00:02:43.429 --> 00:02:48.918
+to the respective pages. Now
+ because they’re components, when we copy
+
+00:02:48.918 --> 00:02:53.122
+paste these into the next sheet,
+
+00:02:53.790 --> 00:02:56.776
+they retain their connections.
+
+00:02:59.996 --> 00:03:02.999
+So what I'm going to do now
+ is go back to the design screen,
+
+00:03:04.050 --> 00:03:05.985
+select all of them, “Control + C”
+
+00:03:05.985 --> 00:03:08.988
+and “Control + V” into the next sheet.
+
+00:03:09.672 --> 00:03:10.290
+Right.
+
+00:03:10.306 --> 00:03:13.826
+So we see, except for the first one,
+
+00:03:14.160 --> 00:03:17.480
+all of them are already linked to
+ which screen that's supposed to go to.
+
+00:03:18.081 --> 00:03:21.467
+So we'll just quickly select
+ the first option, the leaf
+
+00:03:21.885 --> 00:03:25.972
+and connect it back to the screen
+ it's supposed to go to
+
+00:03:25.972 --> 00:03:27.657
+when clicked upon.
+
+00:03:31.895 --> 00:03:33.012
+Now we've got an awesome
+
+00:03:33.012 --> 00:03:36.366
+animation creation,
+ So you want it to react,
+
+00:03:36.366 --> 00:03:40.119
+you want to give the person feedback
+ that it has been clicked upon.
+
+00:03:40.536 --> 00:03:45.308
+So what we do is we work with states,
+ so click on the component.
+
+00:03:45.308 --> 00:03:49.429
+And on the right hand side
+ where we added it as a component,
+
+00:03:49.812 --> 00:03:52.982
+click on the plus button
+ and go to toggle state.
+
+00:03:52.999 --> 00:03:56.185
+So toggle state
+ is what happens when you click on it.
+
+00:03:56.953 --> 00:04:01.107
+Let's edit the component
+ while it's still in the toggle state.
+
+00:04:01.491 --> 00:04:06.763
+So just keep an eye that is in
+ the toggle state in the component panel.
+
+00:04:08.298 --> 00:04:09.065
+Now what we're going to
+
+00:04:09.065 --> 00:04:11.301
+do is click into the component
+
+00:04:12.101 --> 00:04:15.305
+instead of a shadow,
+ give it an inner shadow.
+
+00:04:15.738 --> 00:04:17.991
+So instead of drop shadow,
+ it's an inner shadow.
+
+00:04:18.374 --> 00:04:22.378
+And then maybe you could change
+ the background so that it's a lighter
+
+00:04:22.395 --> 00:04:23.646
+green,
+
+00:04:24.314 --> 00:04:27.967
+even reduce the capacity of the image.
+
+00:04:27.967 --> 00:04:29.285
+So it looks a bit pressed.
+
+00:04:29.285 --> 00:04:32.505
+It's - it's used,
+
+00:04:32.505 --> 00:04:34.791
+and now we've got a button.
+
+00:04:36.309 --> 00:04:38.745
+So if you go back, I'll zoom out
+
+00:04:39.128 --> 00:04:42.398
+and click outside, click
+ back in in the component.
+
+00:04:43.099 --> 00:04:45.885
+Try seeing it in the toggle state, non toggle
+
+00:04:46.219 --> 00:04:48.705
+state, toggle state, default state.
+
+00:04:49.989 --> 00:04:51.124
+It looks good.
+
+00:04:51.708 --> 00:04:52.775
+Awesome.
+
+00:04:52.875 --> 00:04:55.962
+Now this is something you could repeat
+ on the other buttons.
+
+00:04:55.962 --> 00:04:58.865
+But for now,
+ let's just go back to the preview.
+
+00:04:59.499 --> 00:05:02.001
+Check out how we're doing.
+
+00:05:02.001 --> 00:05:04.937
+So that's the preview - the play button.
+
+00:05:05.722 --> 00:05:07.790
+We start with our call page.
+
+00:05:07.790 --> 00:05:10.727
+Click anywhere to go into menu.
+
+00:05:11.210 --> 00:05:14.480
+Let's just click on Future of Uber.
+ That’s a clean page.
+
+00:05:14.480 --> 00:05:18.451
+Click Anywhere Again to go
+ into the next page, which is Road Map.
+
+00:05:18.518 --> 00:05:21.521
+Now we haven't yet completed this,
+ but let's click
+
+00:05:21.521 --> 00:05:25.358
+on first Button,
+ and that's great animation.
+
+00:05:27.760 --> 00:05:31.030
+So it leads to its own page.
+
+00:05:31.597 --> 00:05:34.500
+Just a little bit
+ more hard work, and work done.
+
+00:05:36.219 --> 00:05:39.055
+And here's is the final product, guys.
+
+00:05:39.455 --> 00:05:41.491
+I'm sure all of yours look so cool.
+
+00:05:42.458 --> 00:05:44.660
+I’ll be excited to see it again.
+
+00:05:44.677 --> 00:05:49.615
+Clicking on your option,
+ going to your company
+
+00:05:49.615 --> 00:05:51.050
+profile,
+
+00:05:51.417 --> 00:05:54.370
+the future of your company.
+
+00:05:54.370 --> 00:05:56.339
+Use hover states.
+
+00:05:56.339 --> 00:06:02.028
+Just try it out and clickable buttons. Yay.

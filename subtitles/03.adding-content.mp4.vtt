@@ -1,0 +1,339 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.850
+For the cover page
+
+00:00:00.850 --> 00:00:05.021
+would think of having something
+ very simple, like a logo in the center,
+
+00:00:05.021 --> 00:00:09.209
+and the text about your group name,
+ and the project name.
+
+00:00:09.476 --> 00:00:13.113
+So let's figure out
+ how to bring in assets from the folders
+
+00:00:13.113 --> 00:00:14.698
+that you guys have created.
+
+00:00:14.698 --> 00:00:19.769
+So what we're doing here
+ is we’ve minimized XD, and then opened up
+
+00:00:19.769 --> 00:00:23.490
+the folder, and just dragged
+ in all the assets you wanted.
+
+00:00:23.823 --> 00:00:26.910
+So we're getting the assets
+ for the cover page
+
+00:00:26.910 --> 00:00:29.079
+and the next few slides
+ that we're going to use.
+
+00:00:30.397 --> 00:00:31.448
+We just saw the Uber
+
+00:00:31.448 --> 00:00:34.567
+logo disappear
+ because XD is kind of smart,
+
+00:00:34.834 --> 00:00:37.570
+and it thought
+ that should have been under the cover page.
+
+00:00:37.804 --> 00:00:43.076
+So what do you got to do is just drag
+ your asset outside the cover page to find it
+
+00:00:43.076 --> 00:00:46.830
+and drag it out into general workspace.
+
+00:00:47.764 --> 00:00:49.866
+Now we're bringing it back in.
+
+00:00:49.866 --> 00:00:52.018
+We want it to be center.
+
+00:00:52.018 --> 00:00:56.256
+You notice
+ that XD gives you the guidelines.
+
+00:00:56.589 --> 00:00:59.909
+It makes sure that your asset has centered,
+ and you know
+
+00:00:59.909 --> 00:01:03.546
+which part of the page
+ it's presented in.
+
+00:01:04.931 --> 00:01:08.351
+You can resize it
+ and then use the text option
+
+00:01:08.735 --> 00:01:12.672
+to add your group name
+ and your own names underneath it.
+
+00:01:13.590 --> 00:01:16.709
+So just click and drag
+ where you want your text to be,
+
+00:01:17.110 --> 00:01:19.946
+and on the right hand side, you see
+
+00:01:20.463 --> 00:01:23.967
+the property controls for the text box
+ that you're going to be writing in.
+
+00:01:25.385 --> 00:01:27.670
+Now we adjusted the font size
+
+00:01:27.670 --> 00:01:31.775
+to size 36
+ because it's the cover page and chose
+
+00:01:31.775 --> 00:01:35.261
+the “Uber Moves” font option
+ that we had downloaded previously.
+
+00:01:36.129 --> 00:01:38.832
+We're just entering the text required
+
+00:01:38.832 --> 00:01:40.834
+and formatting it.
+
+00:01:40.834 --> 00:01:42.869
+Now if you find it difficult to
+
+00:01:43.987 --> 00:01:47.240
+control your mouse
+ to select things always make sure to hit
+
+00:01:47.290 --> 00:01:51.628
+“V”, which is the select tool
+ at the top of the tools table.
+
+00:01:52.779 --> 00:01:56.099
+If you're typing a text,
+ it may be a bit difficult to directly
+
+00:01:56.099 --> 00:02:00.153
+hit the keyboard shortcut “V”
+ so we can just do it on the screen or
+
+00:02:00.970 --> 00:02:04.257
+click somewhere outside the box
+ and then hit “V”.
+
+00:02:05.825 --> 00:02:07.627
+To select multiple items,
+
+00:02:07.627 --> 00:02:10.346
+just make sure you're
+ holding on your shift key
+
+00:02:10.680 --> 00:02:14.701
+as you select all your items
+ you want to move around,
+
+00:02:15.101 --> 00:02:17.821
+and the thing you can do
+ is just drag your mouse
+
+00:02:17.821 --> 00:02:20.890
+over all the elements
+ that are required to be selected.
+
+00:02:22.058 --> 00:02:24.511
+Now, moving on to the menu page,
+ we realized
+
+00:02:24.761 --> 00:02:28.948
+actually we like to have a menu button
+ that would connect
+
+00:02:28.948 --> 00:02:32.585
+every other screen back
+ to the content space, the menu page.
+
+00:02:32.919 --> 00:02:35.221
+So we've deleted it for now,
+
+00:02:35.622 --> 00:02:39.576
+to make sure
+ that we can have uniformity.
+
+00:02:40.143 --> 00:02:42.178
+So let's just see how that goes.
+
+00:02:42.178 --> 00:02:45.665
+So we're just resizing the Uber logo
+ to act
+
+00:02:45.665 --> 00:02:49.169
+as our home button,
+ bringing it to the top left corner,
+
+00:02:49.919 --> 00:02:52.655
+kind of feeling out the size,
+
+00:02:52.655 --> 00:02:55.625
+and then for uniformity purpose,
+
+00:02:55.625 --> 00:02:58.745
+select all our content remains
+ in the center of the screen.
+
+00:02:59.045 --> 00:03:03.633
+You can just drag your guidelines
+ from the corner of an article.
+
+00:03:03.900 --> 00:03:07.170
+So if you can see on your left hand side
+ and the top
+
+00:03:07.770 --> 00:03:11.524
+as you hover the mouse over the edge,
+ there's an activity that goes on.
+
+00:03:11.558 --> 00:03:14.794
+Just click on it
+ and drag your guidelines from there.
+
+00:03:15.478 --> 00:03:17.797
+Now these guidelines will get
+
+00:03:17.797 --> 00:03:20.500
+duplicated
+ in all the slides coming forward,
+
+00:03:20.817 --> 00:03:24.187
+so make sure they're in the right place
+ where you want it to be.
+
+00:03:24.821 --> 00:03:27.607
+Now we're starting off
+ with the content of the menu page,
+
+00:03:27.941 --> 00:03:30.727
+so just giving it a heading - saying menu.
+
+00:03:31.144 --> 00:03:33.479
+Bringing it back
+ to where you'd want it to be.
+
+00:03:34.564 --> 00:03:37.417
+Then make sure
+ you're using the text property tools
+
+00:03:37.417 --> 00:03:41.621
+on the right hand side, and making
+ sure it looks like the heading.
+
+00:03:41.738 --> 00:03:42.322
+Yeah.
+
+00:03:42.939 --> 00:03:46.442
+Now we get into the cool part
+ that's kind of unique to XD
+
+00:03:46.626 --> 00:03:51.547
+We’ll be using the repeat grid function,
+ which we’ll use multiple times
+
+00:03:51.547 --> 00:03:56.219
+in this presentation and this workshop
+ in a variety of different ways.
+
+00:03:57.003 --> 00:03:59.138
+Now, make sure that your item is
+ selected.
+
+00:03:59.138 --> 00:04:02.892
+Click on Repeat Grid
+ and you can drag the bottom
+
+00:04:02.892 --> 00:04:05.812
+green controls so you see your item.
+
+00:04:05.828 --> 00:04:11.267
+Your text box gets repeated
+ as many times as the space allows.
+
+00:04:11.584 --> 00:04:15.421
+And when you hover over the space
+ in between two items,
+
+00:04:15.655 --> 00:04:20.760
+you get a pink box
+ and just click and drag to adjust
+
+00:04:21.060 --> 00:04:23.496
+the spacing between the items.
+
+00:04:23.496 --> 00:04:26.549
+This is a super cool function,
+ which will get used in multiple
+
+00:04:26.549 --> 00:04:27.750
+different ways.
+
+00:04:28.001 --> 00:04:31.721
+But the reason why we asked you guys
+
+00:04:31.888 --> 00:04:36.209
+to make sure
+ that all your assets are in order
+
+00:04:36.576 --> 00:04:40.530
+is because this option allows you
+
+00:04:40.863 --> 00:04:43.833
+to populate all the different text boxes
+
+00:04:44.133 --> 00:04:48.004
+with different text by just dragging
+ and dropping your file into it.
+
+00:04:48.488 --> 00:04:51.057
+Because we had three lines of text,
+
+00:04:51.057 --> 00:04:53.426
+three boxes got populated.
+
+00:04:53.426 --> 00:04:56.279
+If you had more,
+ make sure to add those by
+
+00:04:57.146 --> 00:05:00.717
+just dragging down your bottom controls
+ for the repeat group.
+
+00:05:01.417 --> 00:05:05.254
+And if there were too many,
+ the text starts repeating itself,
+
+00:05:05.254 --> 00:05:07.774
+so just close it down
+ to how many we need.
+
+00:05:08.441 --> 00:05:11.644
+Once I kind of show up
+ with the placement of our objects,
+
+00:05:12.362 --> 00:05:15.815
+right click on it
+ and then ungroup your grid
+
+00:05:17.133 --> 00:05:17.617
+just doing
+
+00:05:17.617 --> 00:05:20.470
+some final checking on your compositions
+
+00:05:20.920 --> 00:05:23.423
+and almost done with the menu page.

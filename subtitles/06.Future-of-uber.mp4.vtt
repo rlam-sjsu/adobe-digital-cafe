@@ -1,0 +1,207 @@
+WEBVTT
+
+00:00:00.383 --> 00:00:01.835
+Yep, so we're going to start with
+
+00:00:01.835 --> 00:00:05.822
+the future of Uber.
+ If we refer back to our wire frame,
+
+00:00:05.905 --> 00:00:09.926
+we know that there is a short
+ brief under each topic.
+
+00:00:10.226 --> 00:00:12.829
+So what I did was hold “Alt”
+
+00:00:13.079 --> 00:00:16.232
+and then drag down the text.
+
+00:00:17.000 --> 00:00:20.153
+Because I realized that the 
+ “Future of Uber” was actually a component,
+
+00:00:20.420 --> 00:00:23.556
+I right click on it
+ and then set ungroup component.
+
+00:00:25.225 --> 00:00:27.694
+And then let's just format it
+
+00:00:27.927 --> 00:00:32.032
+to the way we like.
+ Have it slightly lighter, more easier
+
+00:00:32.032 --> 00:00:34.801
+to read, and center aligned.
+
+00:00:36.036 --> 00:00:39.322
+So once I choose a color
+ for my secondary text,
+
+00:00:39.689 --> 00:00:42.358
+I know that it's a color
+ that I'll be using again and again.
+
+00:00:42.809 --> 00:00:46.496
+So an interesting thing to do is to
+ maybe add it your swatches
+
+00:00:46.796 --> 00:00:50.333
+by clicking on the plus
+ button in the color panel.
+
+00:00:53.670 --> 00:00:55.805
+For the content of the page,
+
+00:00:55.805 --> 00:00:57.474
+I know that we're going to approximately
+
+00:00:57.474 --> 00:01:00.844
+have similar formatting.
+ Have the title and subtitle of the page,
+
+00:01:01.161 --> 00:01:03.413
+so I select them both while
+ holding shift.
+
+00:01:03.830 --> 00:01:07.584
+Make sure that the title
+ is no longer a component,
+
+00:01:07.584 --> 00:01:10.103
+by ungrouping component.
+
+00:01:10.737 --> 00:01:13.423
+And then I left align
+
+00:01:13.440 --> 00:01:17.160
+both my text boxes
+ within the text function
+
+00:01:17.510 --> 00:01:22.115
+and then left align
+ both the text functions to each other.
+
+00:01:22.615 --> 00:01:25.735
+Now this can be done
+ by using the align functions
+
+00:01:26.069 --> 00:01:28.822
+at the absolute top of your property
+ panels.
+
+00:01:30.039 --> 00:01:32.342
+As I want them both aligned to the left,
+
+00:01:32.642 --> 00:01:36.429
+I choose the fifth option.
+
+00:01:36.713 --> 00:01:38.782
+I also know from our wireframes
+
+00:01:39.065 --> 00:01:43.052
+that I want these to be bullet points
+ that are linked together,
+
+00:01:43.503 --> 00:01:45.722
+so let's just add shape next to it.
+
+00:01:46.189 --> 00:01:48.291
+For that, I'm
+ going to choose the rectangle.
+
+00:01:49.375 --> 00:01:50.794
+I could also just press
+
+00:01:50.794 --> 00:01:52.796
+“R” on my keyboard.
+
+00:01:54.864 --> 00:01:56.983
+Choose the color I want.
+
+00:02:00.253 --> 00:02:03.056
+And go back to the repeat grid tool.
+
+00:02:03.623 --> 00:02:07.844
+So just make sure it's in the right
+ place, select all my items
+
+00:02:07.844 --> 00:02:10.096
+holding shift or dragging over it
+
+00:02:10.780 --> 00:02:13.583
+and press on the appropriate function.
+
+00:02:17.670 --> 00:02:22.375
+I need three bullet points,
+ but that would be the spacing required,
+
+00:02:22.709 --> 00:02:26.062
+so I'll just make sure
+ I've got my spacing checked
+
+00:02:26.880 --> 00:02:30.133
+and bring in the elements
+ from my folder.
+
+00:02:30.483 --> 00:02:35.305
+So bring in my .txt files of the header
+ to the first header of the group
+
+00:02:35.788 --> 00:02:38.274
+and the .txt of the first body copy
+
+00:02:38.274 --> 00:02:42.178
+to the first body
+ copy text box of the group.
+
+00:02:42.829 --> 00:02:46.099
+So to make sure that all
+ the bullet points seem connected,
+
+00:02:46.099 --> 00:02:51.154
+I'm using the line tool,
+ which is on the left hand side toolbar,
+
+00:02:51.905 --> 00:02:54.774
+connecting all of them
+ and using the properties
+
+00:02:55.325 --> 00:02:58.661
+on the right hand tab
+ to make it a bit darker.
+
+00:02:58.678 --> 00:03:02.815
+Use the colors there
+ and increase the thickness of the line.
+
+00:03:04.250 --> 00:03:06.886
+Now with Importing images,
+
+00:03:06.886 --> 00:03:09.973
+while we can directly 
+ just drag and drop,
+
+00:03:09.973 --> 00:03:14.510
+you have to come in and scale it again
+ and see how that works.
+
+00:03:14.744 --> 00:03:19.883
+So a better habit is to use
+ the rectangle to draw the shape
+
+00:03:19.966 --> 00:03:25.455
+where you want the image to be
+ and then drag your image into that box.
+
+00:03:26.439 --> 00:03:29.175
+And what this does is gives you a frame.
+
+00:03:29.175 --> 00:03:32.145
+And when you double click
+ into that frame, you can adjust
+
+00:03:32.512 --> 00:03:34.964
+how you want the picture to sit within
+ that frame.

@@ -1,0 +1,348 @@
+﻿1
+00:00:00,850 --> 00:00:03,937
+Hi, everyone.
+ This is Nikhil and Padmashree.
+
+2
+00:00:04,270 --> 00:00:08,541
+We are the Adobe student assistants
+ from the MLK library,
+
+3
+00:00:08,808 --> 00:00:11,978
+and welcome to the
+ Adobe XD Basics Workshop.
+
+4
+00:00:13,013 --> 00:00:17,901
+Today, we're going to work through
+ creating a simple yet elegant website,
+
+5
+00:00:17,901 --> 00:00:21,971
+which could also work as a presentation,
+ or a pitch deck based on
+
+6
+00:00:21,971 --> 00:00:25,875
+your required mode of storytelling.
+ By learning these tips and tricks
+
+7
+00:00:26,092 --> 00:00:28,728
+not only will we all become amateur
+
+8
+00:00:29,329 --> 00:00:32,582
+UI UX designers,
+ but also be able to put forward
+
+9
+00:00:32,582 --> 00:00:34,184
+UI UX designers,
+ but also be able to put forward
+
+10
+00:00:34,184 --> 00:00:37,971
+your ideas, and visions for products,
+
+11
+00:00:38,288 --> 00:00:40,356
+and systems in the world.
+
+12
+00:00:41,324 --> 00:00:44,294
+For this project,
+ we will be making a short presentation
+
+13
+00:00:44,627 --> 00:00:46,629
+on the business model of Uber.
+
+14
+00:00:48,732 --> 00:00:52,452
+So before we get started,
+ like any good design product,
+
+15
+00:00:52,786 --> 00:00:56,556
+it's extremely important
+ to get a set of background work done
+
+16
+00:00:56,890 --> 00:00:58,992
+- before getting into our final product.
+
+17
+00:00:59,659 --> 00:01:02,078
+We start with the research work.
+
+18
+00:01:02,078 --> 00:01:05,498
+As we are making short a presentation
+ on the business model of Uber,
+
+19
+00:01:05,832 --> 00:01:07,150
+we make sure we understand
+
+20
+00:01:07,150 --> 00:01:09,936
+the interesting aspects of their 
+ past, present, and future.
+
+21
+00:01:10,687 --> 00:01:13,990
+Once we have collected our resources,
+ we summarize it down
+
+22
+00:01:13,990 --> 00:01:18,228
+to the bullet points we want to convey,
+ and use it as part of our storyboard.
+
+23
+00:01:18,611 --> 00:01:22,449
+Now comes the interesting part.
+We sketch out in a super rough way,
+
+24
+00:01:22,665 --> 00:01:25,552
+what we want
+ our final product to look like on paper.
+
+25
+00:01:26,019 --> 00:01:30,256
+It's important not to miss this part,
+ as this will give us an anchor
+
+26
+00:01:30,440 --> 00:01:34,727
+when diving into the multiple features
+ that Adobe XD offers,
+
+27
+00:01:34,994 --> 00:01:37,814
+which sometimes can make us
+
+28
+00:01:37,814 --> 00:01:40,400
+want to do everything at once,
+ and lose our vision.
+
+29
+00:01:40,867 --> 00:01:44,204
+What we want to capture here is what
+
+30
+00:01:44,204 --> 00:01:48,258
+the visual feel of the information
+ needs to be like,
+
+31
+00:01:48,558 --> 00:01:52,762
+and the flow of information
+ so that it makes a coherent story.
+
+32
+00:01:53,713 --> 00:01:54,430
+It may take a
+
+33
+00:01:54,430 --> 00:01:57,934
+few tries and multiple
+ scratched up papers to get through it,
+
+34
+00:01:58,301 --> 00:02:01,488
+but trust me, guys, it's worth
+
+35
+00:02:01,871 --> 00:02:04,457
+knowing what you're up to
+ before you dive deep.
+
+36
+00:02:05,441 --> 00:02:07,610
+Once we have our research work
+ and structure
+
+37
+00:02:07,610 --> 00:02:10,280
+in place, it's time to type out
+ our information.
+
+38
+00:02:10,930 --> 00:02:13,516
+Adobe XD has a super sweet feature
+
+39
+00:02:13,700 --> 00:02:17,203
+of being able to drag
+ and drop text into its location.
+
+40
+00:02:18,221 --> 00:02:21,908
+Hence, it requires
+ a little bit of formatting beforehand.
+
+41
+00:02:23,059 --> 00:02:25,512
+All text needs to be saved in plain
+
+42
+00:02:25,512 --> 00:02:28,398
+text or simple text mode.
+
+43
+00:02:28,431 --> 00:02:31,701
+So wherever you type out
+ your text makes sure your output
+
+44
+00:02:32,018 --> 00:02:34,470
+is in .txt format.
+
+45
+00:02:35,505 --> 00:02:39,125
+Another important thing to keep in
+ mind is to have your headers
+
+46
+00:02:39,342 --> 00:02:42,011
+and body text in separate folders.
+
+47
+00:02:42,312 --> 00:02:45,582
+Now these will be formatted differently,
+
+48
+00:02:45,582 --> 00:02:47,750
+so you would like them
+ to be grouped together.
+
+49
+00:02:48,551 --> 00:02:51,087
+What do you see being done here is
+
+50
+00:02:51,104 --> 00:02:54,858
+we're just taking out
+ all the headings, putting them together,
+
+51
+00:02:56,109 --> 00:02:58,661
+bring the text into a new file.
+
+52
+00:02:59,062 --> 00:03:02,048
+And even though we have bullet points,
+
+53
+00:03:02,482 --> 00:03:05,001
+we'd like to have them as paragraphs
+
+54
+00:03:05,301 --> 00:03:08,571
+for Adobe to read them as a single unit.
+
+55
+00:03:08,922 --> 00:03:13,426
+So just removing all kinds of enter
+
+56
+00:03:13,426 --> 00:03:16,930
+or line spacing
+ so that we get modular text,
+
+57
+00:03:17,564 --> 00:03:20,466
+which can be read as separate
+ chunks of information.
+
+58
+00:03:22,418 --> 00:03:23,720
+This may seem a bit
+
+59
+00:03:23,720 --> 00:03:27,257
+laborious up front,
+ but it saves a lot of time later on.
+
+60
+00:03:27,590 --> 00:03:31,995
+So hopefully you guys can incorporate it
+ into your process.
+
+61
+00:03:32,679 --> 00:03:36,099
+Now we move on to
+ how to store the information.
+
+62
+00:03:37,000 --> 00:03:40,603
+What we want to do
+ is make sure that all our assets,
+
+63
+00:03:40,603 --> 00:03:46,042
+including the text file, or pictures
+ or any videos are in their own folders
+
+64
+00:03:46,309 --> 00:03:50,563
+and preferably labeled in the order
+ in which they appear.
+
+65
+00:03:51,014 --> 00:03:56,302
+What Adobe wonderfully does
+ is if you have multiple boxes,
+
+66
+00:03:56,302 --> 00:04:01,007
+you can drag all these pictures
+ and it will populate individual boxes.
+
+67
+00:04:02,508 --> 00:04:04,877
+And now,
+ we're ready to start on our project.
+
+68
+00:04:05,528 --> 00:04:09,465
+If you guys are following along,
+ make sure to download all the files
+
+69
+00:04:09,549 --> 00:04:14,320
+from the Google Drive and extract them
+ onto your local computer.
+
+70
+00:04:15,255 --> 00:04:17,323
+Only once they're extracted,
+
+71
+00:04:17,340 --> 00:04:21,494
+can they be dragged
+ and dropped into the Adobe XD files.
+
+72
+00:04:21,878 --> 00:04:25,031
+So let's just get a head start on that.
+
+73
+00:04:26,566 --> 00:04:30,470
+Once you have all of these done,
+ we can make sure we have
+
+74
+00:04:30,920 --> 00:04:35,024
+installed to the newest update
+ and open it up
+
+75
+00:04:35,024 --> 00:04:37,560
+so we can start on our project
+ in the next video.

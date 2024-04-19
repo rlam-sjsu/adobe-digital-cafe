@@ -1,0 +1,297 @@
+﻿1
+00:00:00,000 --> 00:00:02,102
+Before we get into the tutorial,
+
+2
+00:00:02,102 --> 00:00:04,270
+let's just go through the slides
+ we're going to create
+
+3
+00:00:04,504 --> 00:00:06,239
+for Uber.
+
+4
+00:00:07,474 --> 00:00:08,892
+We've got a cover page,
+
+5
+00:00:08,892 --> 00:00:11,077
+a menu, and a few slides of content.
+
+6
+00:00:12,228 --> 00:00:17,384
+What we see here is a clean cover page,
+ with just a logo and some text on it.
+
+7
+00:00:18,685 --> 00:00:19,586
+The menu page
+
+8
+00:00:19,586 --> 00:00:22,856
+has the major topics that we're going
+ to be covering in the presentation,
+
+9
+00:00:23,390 --> 00:00:26,743
+which when clicked upon,
+ take us to the respective slides.
+
+10
+00:00:28,395 --> 00:00:30,730
+Our first content slide is the company
+ profile,
+
+11
+00:00:31,031 --> 00:00:34,968
+where we've created the timeline
+ of the company's existence.
+
+12
+00:00:35,769 --> 00:00:37,821
+As this is just a short tutorial,
+
+13
+00:00:38,388 --> 00:00:41,474
+the second page jumps
+ directly into the future of Uber,
+
+14
+00:00:41,841 --> 00:00:45,712
+elaborating on the company's
+ plans for their future.
+
+15
+00:00:46,396 --> 00:00:49,365
+I'm sure you guys
+ will have many more slides in between.
+
+16
+00:00:49,666 --> 00:00:54,370
+But here the last topic we cover,
+ is the Roadmap to 2040.
+
+17
+00:00:55,255 --> 00:00:58,541
+Here, we have more sub topics
+ which, when clicked upon
+
+18
+00:00:58,758 --> 00:01:01,761
+elaborate on each subheading.
+
+19
+00:01:03,012 --> 00:01:07,967
+A slightly advanced thing we touch upon
+ is to create responsive buttons
+
+20
+00:01:08,334 --> 00:01:11,387
+so pages
+ can be linked within each other.
+
+21
+00:01:12,355 --> 00:01:15,125
+Now that we know what we're up
+ to, let's get right into it.
+
+22
+00:01:16,760 --> 00:01:17,811
+As soon as we open
+
+23
+00:01:17,811 --> 00:01:21,464
+Adobe XD, we land in the startup menu.
+
+24
+00:01:21,848 --> 00:01:24,951
+Here we have an option to choose
+ from their layouts,
+
+25
+00:01:25,251 --> 00:01:27,821
+or open a preexisting saved file.
+
+26
+00:01:28,571 --> 00:01:31,758
+For the purpose of this recording,
+ let's choose the web layout
+
+27
+00:01:31,991 --> 00:01:36,312
+with 1920x1080 resolution.
+
+28
+00:01:37,280 --> 00:01:40,133
+If you guys are used
+ any Adobe product before,
+
+29
+00:01:40,884 --> 00:01:45,588
+we should land on a similar layout
+ with all our tools on the left hand side
+
+30
+00:01:46,005 --> 00:01:48,408
+and the property menus
+ on the right hand side
+
+31
+00:01:48,792 --> 00:01:51,227
+with our working space in the center.
+
+32
+00:01:52,011 --> 00:01:53,113
+What we see here
+
+33
+00:01:53,113 --> 00:01:56,633
+is the first page of our website,
+ or slide deck known as the artboard.
+
+34
+00:01:56,983 --> 00:02:01,121
+Now you can change the color
+ of the artboard by the fill option here,
+
+35
+00:02:01,304 --> 00:02:03,640
+which sets the tone
+ for your presentation.
+
+36
+00:02:04,340 --> 00:02:08,928
+As we're working on Uber, which works
+ basically with white and black,
+
+37
+00:02:09,229 --> 00:02:12,582
+we're going to keep it a minimal
+ white background.
+
+38
+00:02:13,149 --> 00:02:16,102
+What's really important
+ here is to make sure to label
+
+39
+00:02:16,102 --> 00:02:19,189
+your artboards
+ as we create multiple slides.
+
+40
+00:02:19,522 --> 00:02:24,410
+It's important that we keep track
+ of which slide goes off to which,
+
+41
+00:02:24,744 --> 00:02:28,414
+for which you can either
+ double click on the name
+
+42
+00:02:28,414 --> 00:02:33,219
+right above the artboard
+ or change it in the layers panel.
+
+43
+00:02:33,820 --> 00:02:36,256
+At this point,
+ we'd like to create multiple artboards
+
+44
+00:02:36,256 --> 00:02:37,874
+to work on simultaneously.
+
+45
+00:02:37,874 --> 00:02:41,928
+Now, if you have some layout
+ and formatting done on the first artboard,
+
+46
+00:02:42,195 --> 00:02:47,350
+it's best to use the “command D” or 
+ “control D” function to duplicate your artboards.
+
+47
+00:02:48,885 --> 00:02:50,386
+Since we have
+
+48
+00:02:50,386 --> 00:02:54,174
+three different pages
+ apart from the menu page
+
+49
+00:02:54,174 --> 00:02:57,076
+and the color page,
+ we're going to duplicate it five times.
+
+50
+00:02:57,410 --> 00:02:59,979
+You can figure out the number of slides
+
+51
+00:02:59,979 --> 00:03:03,116
+you need,
+ by referring to your initial wireframes sketches.
+
+52
+00:03:03,950 --> 00:03:07,103
+Another way of doing this
+ is to go to your artboard option
+
+53
+00:03:07,103 --> 00:03:12,041
+on your left hand side and then choose
+ the size of the artboard we need next,
+
+54
+00:03:12,859 --> 00:03:15,228
+when the formatting of the next slide
+
+55
+00:03:15,228 --> 00:03:17,897
+is totally different from the first one.
+
+56
+00:03:18,798 --> 00:03:21,851
+Another sneaky method you can use,
+ is to always click
+
+57
+00:03:21,851 --> 00:03:26,739
+on the name of the artboard,
+ and then hold “alt” or “option”
+
+58
+00:03:26,739 --> 00:03:29,776
+and drag the artboard to the place
+ you want it to be.
+
+59
+00:03:30,860 --> 00:03:32,028
+For visual clarity,
+
+60
+00:03:32,028 --> 00:03:34,731
+let’s just select the artboard’s - 
+
+61
+00:03:34,731 --> 00:03:38,902
+the last three of them and drag them below.
+ So we've got the cover, the menu,
+
+62
+00:03:39,219 --> 00:03:41,804
+and then the main slides.
+
+63
+00:03:41,804 --> 00:03:44,140
+Let's also get onto renaming them
+ quickly,
+
+64
+00:03:44,591 --> 00:03:46,926
+before you move on to the next steps.

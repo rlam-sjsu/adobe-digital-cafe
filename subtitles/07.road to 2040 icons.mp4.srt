@@ -1,0 +1,307 @@
+﻿1
+00:00:00,000 --> 00:00:01,651
+Let's now get into the last
+
+2
+00:00:01,651 --> 00:00:06,156
+and most adventurous
+ and advanced frame slash
+
+3
+00:00:06,539 --> 00:00:10,160
+group of frames,
+ group of slides, of this workshop.
+
+4
+00:00:10,460 --> 00:00:13,563
+So in Roadmap to 2040,
+ we want to do something different.
+
+5
+00:00:13,613 --> 00:00:19,202
+We want to create icons and decks
+ that lead to other screens.
+
+6
+00:00:19,436 --> 00:00:20,970
+So how do we do that?
+
+7
+00:00:20,970 --> 00:00:23,373
+Initially,
+ let's just create a rectangle.
+
+8
+00:00:23,373 --> 00:00:25,809
+Now, if you see in the corner
+ of the rectangles,
+
+9
+00:00:26,126 --> 00:00:28,511
+inside the box, there are side dots.
+
+10
+00:00:28,678 --> 00:00:32,282
+If you click on those dots and drag
+ it in.
+
+11
+00:00:32,582 --> 00:00:34,250
+It creates curved corners.
+
+12
+00:00:34,250 --> 00:00:37,203
+Now this gives it a nice,
+ modern finished look.
+
+13
+00:00:37,520 --> 00:00:40,323
+You could also do that on the properties
+ panel,
+
+14
+00:00:40,557 --> 00:00:42,876
+right above the
+ color and the fill option.
+
+15
+00:00:45,712 --> 00:00:48,415
+We're going to format
+ it so that it has a thicker background
+
+16
+00:00:48,415 --> 00:00:50,984
+and then we have a smaller box inside it
+
+17
+00:00:51,317 --> 00:00:54,821
+where the icons will fit. Below icons,
+
+18
+00:00:55,338 --> 00:00:59,109
+we would like the text
+ of what those icons represent.
+
+19
+00:00:59,476 --> 00:01:01,995
+So let's just add a text box
+ there.
+
+20
+00:01:01,995 --> 00:01:05,682
+Now it's super important to make sure
+ that we have this idea beforehand,
+
+21
+00:01:06,099 --> 00:01:09,753
+which is why - just draw rough of sketches
+ of what you want.
+
+22
+00:01:09,769 --> 00:01:13,573
+It becomes much easier
+ to do subsequent things
+
+23
+00:01:14,124 --> 00:01:17,544
+when you have an idea of what you want.
+
+24
+00:01:17,794 --> 00:01:19,312
+Now, make sure they're aligned,
+
+25
+00:01:19,312 --> 00:01:24,534
+by dragging my mouse over it
+ when it's in the select option
+
+26
+00:01:24,868 --> 00:01:29,189
+and then clicking that align function
+ at the top right hand corner
+
+27
+00:01:29,689 --> 00:01:31,324
+align buttons.
+
+28
+00:01:32,859 --> 00:01:35,111
+I’m also
+ just gonna format the text button
+
+29
+00:01:35,445 --> 00:01:38,481
+and now use the “Repeat Grid” option.
+
+30
+00:01:38,815 --> 00:01:43,403
+So this populates not just text,
+ but even shapes get repeated.
+
+31
+00:01:57,851 --> 00:01:58,434
+Now let's
+
+32
+00:01:58,434 --> 00:02:02,472
+say I want to add images
+ or icons into those boxes.
+
+33
+00:02:02,822 --> 00:02:06,459
+It's super important that we know
+ which order we want them in.
+
+34
+00:02:06,793 --> 00:02:11,231
+So just label them accordingly
+ so that when you select all
+
+35
+00:02:11,648 --> 00:02:14,200
+and then drag them into the “Repeat
+
+36
+00:02:14,200 --> 00:02:17,203
+Grid” function, they just fit perfectly .
+
+37
+00:02:17,203 --> 00:02:21,374
+Now, for four you may think it's easy
+ to do it by hand, but this is possible
+
+38
+00:02:21,374 --> 00:02:25,145
+even if you, let's say
+ you have 40 or 50 options.
+
+39
+00:02:26,262 --> 00:02:29,949
+Now, once we tried to add
+
+40
+00:02:29,949 --> 00:02:32,468
+our text, we noticed that
+ there's a slight problem that happens.
+
+41
+00:02:32,952 --> 00:02:36,055
+This is a common problem,
+ which happens very regularly.
+
+42
+00:02:36,072 --> 00:02:38,474
+So just click into the first text box.
+
+43
+00:02:38,892 --> 00:02:42,462
+Yeah, and then go to this fixed
+
+44
+00:02:42,462 --> 00:02:45,014
+width text box option, click on that.
+
+45
+00:02:45,398 --> 00:02:49,802
+So you decide to which space
+ your text box fits
+
+46
+00:02:50,170 --> 00:02:52,539
+and there won't be any auto adjusting
+ patterns.
+
+47
+00:02:53,289 --> 00:02:56,676
+Let's drag
+ our text in now, and it works perfectly.
+
+48
+00:02:59,812 --> 00:03:02,632
+Let's get
+ back into formatting our pretty boxes.
+
+49
+00:03:03,233 --> 00:03:05,952
+Because these are buttons,
+
+50
+00:03:06,236 --> 00:03:09,556
+or these are clickable, you'd want them
+ to hover over the screen a bit.
+
+51
+00:03:09,923 --> 00:03:13,393
+So what I'm doing is opening
+ the layers panel, making sure
+
+52
+00:03:13,393 --> 00:03:17,230
+only the rectangle is selected
+ and then on the right hand side,
+
+53
+00:03:17,230 --> 00:03:20,149
+add a shadow. Now right now
+ because it's gray
+
+54
+00:03:20,149 --> 00:03:25,521
+it may not be very visible,
+ but I'm sure that it will come through
+
+55
+00:03:26,272 --> 00:03:29,559
+once we get our colors in place.
+
+56
+00:03:30,526 --> 00:03:33,263
+Now, let's assign
+ a different color for each of them here.
+
+57
+00:03:33,529 --> 00:03:36,416
+So when we try to do that directly,
+
+58
+00:03:36,532 --> 00:03:39,319
+we realize that the same color
+ gets assigned to all of them.
+
+59
+00:03:39,552 --> 00:03:43,423
+So what we got to do
+ is make sure our formatting for the boxes
+
+60
+00:03:43,790 --> 00:03:47,810
+are completed, the set,
+ and then we ungroup the grid.
+
+61
+00:03:48,378 --> 00:03:52,665
+And then get into formatting each color
+ as you format the color,
+
+62
+00:03:52,699 --> 00:03:54,550
+Make sure to,
+
+63
+00:03:56,853 --> 00:03:58,655
+add the colors, into your
+
+64
+00:03:58,655 --> 00:04:01,507
+swatches, so that you can use it again
+ if it ever pops up.
+
+65
+00:04:01,774 --> 00:04:04,594
+So you have some sort of uniformity
+ and a visual language
+
+66
+00:04:04,594 --> 00:04:07,630
+that's getting developed
+ along with your storytelling methods.
