@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/adobe-digital-cafe/static/css/main.ff105d4f.css",
-    "main.js": "/adobe-digital-cafe/static/js/main.b06fea90.js",
+    "main.css": "/adobe-digital-cafe/static/css/main.2268f935.css",
+    "main.js": "/adobe-digital-cafe/static/js/main.38c8a4f7.js",
     "static/js/210.5e5aedac.chunk.js": "/adobe-digital-cafe/static/js/210.5e5aedac.chunk.js",
     "static/js/640.93c2e067.chunk.js": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js",
     "reactPlayerYouTube.js": "/adobe-digital-cafe/static/js/reactPlayerYouTube.bc51f6d0.chunk.js",
@@ -19,8 +19,8 @@
     "reactPlayerFilePlayer.js": "/adobe-digital-cafe/static/js/reactPlayerFilePlayer.4e2f7a25.chunk.js",
     "reactPlayerPreview.js": "/adobe-digital-cafe/static/js/reactPlayerPreview.07c9fc7c.chunk.js",
     "index.html": "/adobe-digital-cafe/index.html",
-    "main.ff105d4f.css.map": "/adobe-digital-cafe/static/css/main.ff105d4f.css.map",
-    "main.b06fea90.js.map": "/adobe-digital-cafe/static/js/main.b06fea90.js.map",
+    "main.2268f935.css.map": "/adobe-digital-cafe/static/css/main.2268f935.css.map",
+    "main.38c8a4f7.js.map": "/adobe-digital-cafe/static/js/main.38c8a4f7.js.map",
     "210.5e5aedac.chunk.js.map": "/adobe-digital-cafe/static/js/210.5e5aedac.chunk.js.map",
     "640.93c2e067.chunk.js.map": "/adobe-digital-cafe/static/js/640.93c2e067.chunk.js.map",
     "reactPlayerYouTube.bc51f6d0.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerYouTube.bc51f6d0.chunk.js.map",
@@ -39,7 +39,7 @@
     "reactPlayerPreview.07c9fc7c.chunk.js.map": "/adobe-digital-cafe/static/js/reactPlayerPreview.07c9fc7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff105d4f.css",
-    "static/js/main.b06fea90.js"
+    "static/css/main.2268f935.css",
+    "static/js/main.38c8a4f7.js"
   ]
 }
